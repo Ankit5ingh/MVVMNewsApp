@@ -1,7 +1,8 @@
-package com.androiddevs.mvvmnewsapp
+package com.ankit.mvvmnewsapp.ui
 
 import androidx.appcompat.app.AppCompatActivity
 import android.os.Bundle
+import com.ankit.mvvmnewsapp.R
 
 class MainActivity : AppCompatActivity() {
 
